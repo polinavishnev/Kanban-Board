@@ -1,6 +1,8 @@
 # Flask Kanban Board
 A simple Kanban board for keeping track of task status (to do, doing, or done) and date.
 
+![image](https://user-images.githubusercontent.com/68515140/205652496-e499d2e0-de2f-414a-b1c1-6abae4a10f5e.png)
+
 ## Features
 
 - Add new tasks, with due dates.
@@ -39,16 +41,15 @@ Run the following command to run the tests.
 ## Directory pathways
 
 Root directory:
-`app.py` - The main file that runs the app.
-`README.md` - The file describing the app.
-`requirements.txt` - The dependencies for the app.
-`test` - The directory that contains the tests.
+* `app.py` - The main file that runs the app.
+* `README.md` - The file describing the app.
+* `requirements.txt` - The dependencies for the app.
+* `test` - The directory that contains the tests.
 
 `app` - The directory that contains the app.
-`app/__init__.py` - The file that initializes the app.
-`app/kanban_db.py` - The file that contains the database setup for the app.
-`app/kanban_routing.py` - The file that contains the routes for the app.
+* `app/__init__.py` - The file that initializes the app.
+* `app/kanban_db.py` - The file that contains the database setup for the app.
+* `app/kanban_routing.py` - The file that contains the routes for the app.
 
 `app/templates` - The directory that contains the HTML for the app.
-
-`app/templates/index.html` - The HTML for the Kanban board.
+* `app/templates/index.html` - The HTML for the Kanban board.
