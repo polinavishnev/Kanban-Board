@@ -1,8 +1,6 @@
 # Flask Kanban Board
 A simple Kanban board for keeping track of task status (to do, doing, or done) and date.
 
-![image](https://user-images.githubusercontent.com/68515140/205652496-e499d2e0-de2f-414a-b1c1-6abae4a10f5e.png)
-
 ## Features
 
 - Add new tasks, with due dates.
